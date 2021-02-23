@@ -1,0 +1,3 @@
+C:/Users/Bodi/CLionProjects/srtify/cmake-build-debug/CMakeFiles/srtify.dir
+C:/Users/Bodi/CLionProjects/srtify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bodi/CLionProjects/srtify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
